@@ -1,0 +1,15 @@
+void R90 ();
+void L90 ();
+void R45 ();
+void L45 ();
+void forward(int power, int distance);
+void backward(int power, int distance);
+void R (int dist);
+void L (int dist2);
+void stop (int time);
+void forsquare ();
+void backsquare ();
+void follow (int distance);
+void s (int port, int pos);
+void upslow (int arm, int initial, int final, int speed);
+void downslow (int arm, int initial, int final, int speed);
