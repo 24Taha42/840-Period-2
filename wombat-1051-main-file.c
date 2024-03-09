@@ -1,3 +1,6 @@
+// The goal of this program (from the wombat we showed in our mechanical review) is to first open the airlock
+// then move the habitats from the storage docks to the habitat construction.
+
 #include <kipr/wombat.h>
 #include "mylibrary.h"
 int main()
