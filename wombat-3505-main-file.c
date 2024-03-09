@@ -1,3 +1,5 @@
+// The purpose of this program is to pick up one of the habitats on the road next to the small rover bay and place it on a small habitat construciton
+
 #include <kipr/wombat.h>
 
 int main()
